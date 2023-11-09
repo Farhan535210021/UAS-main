@@ -17,5 +17,5 @@ PORT =
 MONGODB_URL = `link mongodbmu'
 contoh 
 PORT=3000
-MONGODB_URL=lmongodb+srv://farhan:farhan@cluster0.cvytlxv.mongodb.net/ test
+MONGODB_URL=lmongodb+srv://farhan:farhan@cluster0.cvytlxv.mongodb.net/ 
 ```
